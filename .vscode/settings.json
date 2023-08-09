@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.eslintrc.json": true,
+        "**/package-lock.json": true,
+        "**/jsconfig.json": true,
+        "**/.gitignore": true,
+        "**/postcss.config.js": true,
+        "**/node_modules": true
+    }
+}
